@@ -37,3 +37,6 @@ To run the test cases:
 Logs: 
     logs folder: app.log
 
+To clone the repository:
+    git clone https://github.com/pikishor/Sympera_Test.git
+
