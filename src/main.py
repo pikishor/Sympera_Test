@@ -1,4 +1,5 @@
 from src.utils.expense_utils import TransactionDataLoader
+from src.utils.exchange_rate_utils import ExchangeRate
 from src.analysis.expense_analysis import ExpenseAnalysis
 from src.visualizations.expense_visualization import ExpenseVisualization
 from reports.expense_report import ReportGenerator
@@ -40,3 +41,18 @@ if __name__ == "__main__":
     expense_visualization.plot_expenses_vs_income()
     expense_report_generator = ReportGenerator()
     expense_report_generator.generate_pdf_report(monthly_summary_df, recommendations, monthly_reductions)
+
+    # Creating instance of ExchangeRate in case of using it later. Here in CSV no currency is given so not implemented for now. 
+    exchange_rate_service = ExchangeRate()
+    from_currency = 'EUR'  
+    to_currency = 'USD'
+    try:
+        rate = exchange_rate_service.get_exchange_rate(from_currency, to_currency)
+        if rate is not None:
+            logger.info(f"The exchange rate from {from_currency} to {to_currency} is: {rate}")
+        else:
+            logger.info("Failed to retrieve the exchange rate.")
+    except Exception as e:
+        logger.error(f"An error occurred: {e}")
+    # Psss the rate in the currency to implement the method
+    # Or multiplyamount by rate in pandas dataframe to convert the currency from_currency to to_currency or similarly in savings.
