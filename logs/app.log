@@ -1,0 +1,1485 @@
+2024-11-03 19:20:29,931 - ERROR - Error loading transaction data: [Errno 2] No such file or directory: 'data/transactions_example.csv'
+2024-11-03 19:27:00,634 - INFO - Transaction data loaded successfully.
+2024-11-03 19:27:05,446 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-03 19:27:05,446 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-03 19:27:05,447 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-03 19:27:05,447 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-03 19:27:15,117 - INFO - PDF report generated: financial_report.pdf
+2024-11-03 20:34:53,813 - INFO - Transaction data loaded successfully.
+2024-11-03 20:34:57,214 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-03 20:34:57,215 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-03 20:34:57,215 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-03 20:34:57,215 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-03 20:35:17,312 - INFO - PDF report generated: financial_report.pdf
+2024-11-03 21:20:50,470 - INFO - Transaction data loaded successfully.
+2024-11-03 21:20:54,093 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-03 21:20:54,094 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-03 21:20:54,094 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-03 21:20:54,095 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-03 21:21:01,327 - INFO - PDF report generated: financial_report.pdf
+2024-11-03 22:04:32,170 - INFO - Transaction data loaded successfully.
+2024-11-03 22:04:35,351 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-03 22:04:35,352 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-03 22:04:35,352 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-03 22:04:35,352 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-03 22:04:43,748 - INFO - PDF report generated: financial_report.pdf
+2024-11-03 22:56:30,173 - INFO - Transaction data loaded successfully.
+2024-11-03 22:56:33,998 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-03 22:56:33,998 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-03 22:56:33,999 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-03 22:56:33,999 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-03 22:56:37,780 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 10:14:08,804 - INFO - Transaction data loaded successfully.
+2024-11-04 10:14:11,405 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 10:14:11,407 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 10:14:11,407 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 10:14:11,407 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 10:14:14,274 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 10:18:03,642 - INFO - Transaction data loaded successfully.
+2024-11-04 10:18:29,003 - INFO - Transaction data loaded successfully.
+2024-11-04 10:20:19,258 - INFO - Transaction data loaded successfully.
+2024-11-04 10:20:21,470 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 10:20:21,470 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 10:20:21,471 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 10:20:21,471 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 10:20:24,290 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 10:46:41,295 - INFO - Transaction data loaded successfully.
+2024-11-04 10:47:15,016 - INFO - Transaction data loaded successfully.
+2024-11-04 10:47:17,397 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 10:47:17,397 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 10:47:17,398 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 10:47:17,398 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 10:47:20,184 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 11:02:55,816 - INFO - Transaction data loaded successfully.
+2024-11-04 11:02:59,009 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:02:59,009 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:02:59,010 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:02:59,010 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:03:11,736 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 11:09:59,189 - INFO - Transaction data loaded successfully.
+2024-11-04 11:10:02,257 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:10:02,257 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:10:02,258 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:10:02,258 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:10:05,635 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:10:05,636 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:10:05,636 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:10:05,636 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:10:05,972 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 11:37:04,162 - INFO - Application started
+2024-11-04 11:37:04,167 - INFO - Transaction data loaded successfully.
+2024-11-04 11:37:07,431 - INFO - Monthly Summary:
+2024-11-04 11:37:07,431 - INFO -      Month  total_income  total_expenses  expense_to_income_ratio
+0  2024-09          3011            1858                 0.617071
+1  2024-10        586740          387314                 0.660112
+2  2024-11         27440            4866                 0.177332
+3  2024-12          9043            3277                 0.362380
+2024-11-04 11:37:07,440 - INFO - 
+Recommendations:
+2024-11-04 11:37:07,440 - INFO - In 2024-09, reduce Rent expenses by 255.15 to reach savings goals.
+2024-11-04 11:37:07,441 - INFO - In 2024-10, reduce Rent expenses by 26193.60 to reach savings goals.
+2024-11-04 11:37:07,441 - INFO - In 2024-12, reduce Rent expenses by 278.25 to reach savings goals.
+2024-11-04 11:37:07,441 - INFO - 
+Goal Recommendation:
+2024-11-04 11:37:07,441 - INFO - 0.0005033789310748399
+2024-11-04 11:37:07,665 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:37:07,666 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:37:07,666 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:37:07,666 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:37:10,375 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:37:10,376 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:37:10,376 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:37:10,377 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:37:10,697 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 11:50:23,517 - INFO - Application started
+2024-11-04 11:50:23,528 - INFO - Transaction data loaded successfully.
+2024-11-04 11:50:23,530 - INFO - Expense sorted by Category: 
+2024-11-04 11:50:23,530 - INFO -            Date   Category  Amount
+457  2024-10-12     Dining     -50
+2    2024-10-15     Dining     -54
+798  2024-10-26     Dining     -54
+959  2024-10-18     Dining     -54
+1007 2024-11-18     Dining     -54
+...         ...        ...     ...
+44   2024-10-15  Utilities    -487
+935  2024-10-11  Utilities    -490
+197  2024-10-17  Utilities    -493
+502  2024-10-23  Utilities    -494
+414  2024-10-07  Utilities    -497
+
+[1029 rows x 3 columns]
+2024-11-04 11:50:23,538 - INFO - Monthly Summary: 
+2024-11-04 11:50:23,538 - INFO -      Month  total_income  total_expenses  expense_to_income_ratio
+0  2024-09          3011            1858                 0.617071
+1  2024-10        586740          387314                 0.660112
+2  2024-11         27440            4866                 0.177332
+3  2024-12          9043            3277                 0.362380
+2024-11-04 11:50:25,615 - INFO - Monthly Summary:
+2024-11-04 11:50:25,615 - INFO -      Month  total_income  total_expenses  expense_to_income_ratio
+0  2024-09          3011            1858                 0.617071
+1  2024-10        586740          387314                 0.660112
+2  2024-11         27440            4866                 0.177332
+3  2024-12          9043            3277                 0.362380
+2024-11-04 11:50:25,623 - INFO - 
+Recommendations:
+2024-11-04 11:50:25,623 - INFO - In 2024-09, reduce Rent expenses by 255.15 to reach savings goals.
+2024-11-04 11:50:25,623 - INFO - In 2024-10, reduce Rent expenses by 26193.60 to reach savings goals.
+2024-11-04 11:50:25,623 - INFO - In 2024-12, reduce Rent expenses by 278.25 to reach savings goals.
+2024-11-04 11:50:25,623 - INFO - 
+Goal Recommendation:
+2024-11-04 11:50:25,623 - INFO - 0.0005033789310748399
+2024-11-04 11:50:25,800 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:50:25,801 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:50:25,801 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:50:25,802 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:50:28,811 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:50:28,812 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:50:28,812 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:50:28,812 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:50:29,137 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 11:53:58,660 - INFO - Application started
+2024-11-04 11:53:58,664 - INFO - Transaction data loaded successfully.
+2024-11-04 11:53:58,664 - INFO - Expense sorted by Category: 
+2024-11-04 11:53:58,664 - INFO -         Category  Amount
+4           Rent -179478
+2      Groceries  -41884
+6      Transport  -40503
+3     Healthcare  -35383
+7      Utilities  -34372
+0         Dining  -33196
+1  Entertainment  -32499
+5         Salary  626234
+2024-11-04 11:53:58,669 - INFO - Monthly Summary: 
+2024-11-04 11:53:58,669 - INFO -      Month  total_income  total_expenses  expense_to_income_ratio
+0  2024-09          3011            1858                 0.617071
+1  2024-10        586740          387314                 0.660112
+2  2024-11         27440            4866                 0.177332
+3  2024-12          9043            3277                 0.362380
+2024-11-04 11:54:00,888 - INFO - Monthly Summary:
+2024-11-04 11:54:00,888 - INFO -      Month  total_income  total_expenses  expense_to_income_ratio
+0  2024-09          3011            1858                 0.617071
+1  2024-10        586740          387314                 0.660112
+2  2024-11         27440            4866                 0.177332
+3  2024-12          9043            3277                 0.362380
+2024-11-04 11:54:00,896 - INFO - 
+Recommendations:
+2024-11-04 11:54:00,896 - INFO - In 2024-09, reduce Rent expenses by 255.15 to reach savings goals.
+2024-11-04 11:54:00,896 - INFO - In 2024-10, reduce Rent expenses by 26193.60 to reach savings goals.
+2024-11-04 11:54:00,896 - INFO - In 2024-12, reduce Rent expenses by 278.25 to reach savings goals.
+2024-11-04 11:54:00,896 - INFO - 
+Goal Recommendation:
+2024-11-04 11:54:00,896 - INFO - 0.0005033789310748399
+2024-11-04 11:54:01,055 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:54:01,055 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:54:01,056 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:54:01,056 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:54:04,295 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:54:04,296 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:54:04,296 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:54:04,296 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 11:54:04,620 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 12:04:39,965 - INFO - Application started
+2024-11-04 12:04:39,968 - INFO - Transaction data loaded successfully.
+2024-11-04 12:04:39,970 - INFO - Expense sorted by Category: 
+2024-11-04 12:04:39,970 - INFO -       Month       Category  Amount
+1   2024-09           Rent   -1701
+0   2024-09      Groceries    -157
+2   2024-09         Salary    3011
+7   2024-10           Rent -174624
+5   2024-10      Groceries  -40593
+9   2024-10      Transport  -39793
+6   2024-10     Healthcare  -34480
+10  2024-10      Utilities  -33235
+4   2024-10  Entertainment  -32309
+3   2024-10         Dining  -32280
+8   2024-10         Salary  586740
+14  2024-11           Rent   -1298
+17  2024-11      Utilities   -1137
+11  2024-11         Dining    -916
+12  2024-11      Groceries    -668
+13  2024-11     Healthcare    -544
+16  2024-11      Transport    -303
+15  2024-11         Salary   27440
+21  2024-12           Rent   -1855
+19  2024-12      Groceries    -466
+23  2024-12      Transport    -407
+20  2024-12     Healthcare    -359
+18  2024-12  Entertainment    -190
+22  2024-12         Salary    9043
+2024-11-04 12:04:39,975 - INFO - Monthly Summary: 
+2024-11-04 12:04:39,975 - INFO -      Month  total_income  total_expenses  expense_to_income_ratio
+0  2024-09          3011            1858                 0.617071
+1  2024-10        586740          387314                 0.660112
+2  2024-11         27440            4866                 0.177332
+3  2024-12          9043            3277                 0.362380
+2024-11-04 12:04:42,017 - INFO - Monthly Summary:
+2024-11-04 12:04:42,019 - INFO -      Month  total_income  total_expenses  expense_to_income_ratio
+0  2024-09          3011            1858                 0.617071
+1  2024-10        586740          387314                 0.660112
+2  2024-11         27440            4866                 0.177332
+3  2024-12          9043            3277                 0.362380
+2024-11-04 12:04:42,025 - INFO - 
+Recommendations:
+2024-11-04 12:04:42,025 - INFO - In 2024-09, reduce Rent expenses by 255.15 to reach savings goals.
+2024-11-04 12:04:42,025 - INFO - In 2024-10, reduce Rent expenses by 26193.60 to reach savings goals.
+2024-11-04 12:04:42,025 - INFO - In 2024-12, reduce Rent expenses by 278.25 to reach savings goals.
+2024-11-04 12:04:42,025 - INFO - 
+Goal Recommendation:
+2024-11-04 12:04:42,025 - INFO - 0.0005033789310748399
+2024-11-04 12:04:42,180 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:04:42,180 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:04:42,181 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:04:42,181 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:04:45,552 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:04:45,552 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:04:45,553 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:04:45,553 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:04:45,871 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 12:16:45,664 - INFO - Application started
+2024-11-04 12:16:45,674 - INFO - Transaction data loaded successfully.
+2024-11-04 12:16:45,680 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 12:16:45,684 - INFO - Monthly Summary: 
+2024-11-04 12:16:45,684 - INFO -      Month  total_income  total_expenses  expense_to_income_ratio
+0  2024-09          3011            1858                 0.617071
+1  2024-10        586740          387314                 0.660112
+2  2024-11         27440            4866                 0.177332
+3  2024-12          9043            3277                 0.362380
+2024-11-04 12:16:48,834 - INFO - Monthly Summary:
+2024-11-04 12:16:48,834 - INFO -      Month  total_income  total_expenses  expense_to_income_ratio
+0  2024-09          3011            1858                 0.617071
+1  2024-10        586740          387314                 0.660112
+2  2024-11         27440            4866                 0.177332
+3  2024-12          9043            3277                 0.362380
+2024-11-04 12:16:48,840 - INFO - 
+Recommendations:
+2024-11-04 12:16:48,840 - INFO - In 2024-09, reduce Rent expenses by 255.15 to reach savings goals.
+2024-11-04 12:16:48,840 - INFO - In 2024-10, reduce Rent expenses by 26193.60 to reach savings goals.
+2024-11-04 12:16:48,840 - INFO - In 2024-12, reduce Rent expenses by 278.25 to reach savings goals.
+2024-11-04 12:16:48,840 - INFO - 
+Goal Recommendation:
+2024-11-04 12:16:48,840 - INFO - 0.00025168946553741996
+2024-11-04 12:16:49,044 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:16:49,045 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:16:49,045 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:16:49,045 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:16:53,052 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:16:53,052 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:16:53,053 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:16:53,053 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:16:53,379 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 12:19:17,859 - INFO - Application started
+2024-11-04 12:19:17,862 - INFO - Transaction data loaded successfully.
+2024-11-04 12:19:17,865 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 12:19:17,868 - INFO - Monthly Summary of Expenses and Income:
+  Month  total_income  total_expenses  expense_to_income_ratio
+2024-09          3011            1858                 0.617071
+2024-10        586740          387314                 0.660112
+2024-11         27440            4866                 0.177332
+2024-12          9043            3277                 0.362380
+2024-11-04 12:19:20,015 - INFO - Monthly Summary:
+2024-11-04 12:19:20,016 - INFO -      Month  total_income  total_expenses  expense_to_income_ratio
+0  2024-09          3011            1858                 0.617071
+1  2024-10        586740          387314                 0.660112
+2  2024-11         27440            4866                 0.177332
+3  2024-12          9043            3277                 0.362380
+2024-11-04 12:19:20,022 - INFO - 
+Recommendations:
+2024-11-04 12:19:20,022 - INFO - In 2024-09, reduce Rent expenses by 255.15 to reach savings goals.
+2024-11-04 12:19:20,022 - INFO - In 2024-10, reduce Rent expenses by 26193.60 to reach savings goals.
+2024-11-04 12:19:20,022 - INFO - In 2024-12, reduce Rent expenses by 278.25 to reach savings goals.
+2024-11-04 12:19:20,022 - INFO - 
+Goal Recommendation:
+2024-11-04 12:19:20,022 - INFO - 0.00025168946553741996
+2024-11-04 12:19:20,180 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:19:20,181 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:19:20,181 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:19:20,181 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:19:23,054 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:19:23,055 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:19:23,055 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:19:23,055 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:19:23,386 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 12:47:32,474 - INFO - Application started
+2024-11-04 12:47:32,477 - INFO - Transaction data loaded successfully.
+2024-11-04 12:47:32,480 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 12:47:32,483 - INFO - Monthly Summary of Expenses and Income:
+  Month  total_income  total_expenses  expense_to_income_ratio
+2024-09          3011            1858                 0.617071
+2024-10        586740          387314                 0.660112
+2024-11         27440            4866                 0.177332
+2024-12          9043            3277                 0.362380
+2024-11-04 12:47:32,483 - ERROR - Error generating savings recommendations: name 'pd' is not defined
+2024-11-04 12:48:12,665 - INFO - Application started
+2024-11-04 12:48:12,668 - INFO - Transaction data loaded successfully.
+2024-11-04 12:48:12,671 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 12:48:12,674 - INFO - Monthly Summary of Expenses and Income:
+  Month  total_income  total_expenses  expense_to_income_ratio
+2024-09          3011            1858                 0.617071
+2024-10        586740          387314                 0.660112
+2024-11         27440            4866                 0.177332
+2024-12          9043            3277                 0.362380
+2024-11-04 12:48:12,676 - INFO - Generated savings recommendations.
+2024-11-04 12:49:08,961 - INFO - Application started
+2024-11-04 12:49:08,964 - INFO - Transaction data loaded successfully.
+2024-11-04 12:49:08,967 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 12:49:08,970 - INFO - Monthly Summary of Expenses and Income:
+  Month  total_income  total_expenses  expense_to_income_ratio
+2024-09          3011            1858                 0.617071
+2024-10        586740          387314                 0.660112
+2024-11         27440            4866                 0.177332
+2024-12          9043            3277                 0.362380
+2024-11-04 12:49:08,972 - INFO - Generated savings recommendations.
+2024-11-04 12:49:11,592 - INFO - Calculated reduction needed: 0.00% to meet savings goal.
+2024-11-04 12:49:11,593 - INFO - 
+Recommendations:
+2024-11-04 12:49:11,593 - INFO - In 2024-09, the 'Rent' expenses were 46.49% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 12:49:11,593 - INFO - In 2024-10, the 'Rent' expenses were 19.76% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 12:49:11,593 - INFO - In 2024-12, the 'Rent' expenses were 10.51% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 12:49:11,593 - INFO - 
+Goal Recommendation:
+2024-11-04 12:49:11,593 - INFO - 0.0005033789310748399
+2024-11-04 12:49:11,765 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:49:11,766 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:49:11,766 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:49:11,766 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:49:14,360 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:49:14,360 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:49:14,361 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:49:14,361 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 12:49:14,717 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 13:00:25,668 - INFO - Application started
+2024-11-04 13:00:25,672 - INFO - Transaction data loaded successfully.
+2024-11-04 13:00:25,675 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 13:00:25,678 - INFO - Monthly Summary of Expenses and Income:
+  Month  total_income  total_expenses  expense_to_income_ratio
+2024-09          3011            1858                 0.617071
+2024-10        586740          387314                 0.660112
+2024-11         27440            4866                 0.177332
+2024-12          9043            3277                 0.362380
+2024-11-04 13:00:25,680 - INFO - Generated savings recommendations.
+2024-11-04 13:00:25,680 - INFO - 
+Recommendations:
+2024-11-04 13:00:25,680 - INFO - In 2024-09, the 'Rent' expenses were 46.49% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:00:25,680 - INFO - In 2024-10, the 'Rent' expenses were 19.76% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:00:25,680 - INFO - In 2024-12, the 'Rent' expenses were 10.51% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:00:28,152 - INFO - Month 2024-09: Calculated reduction needed: 73.09% to meet savings goal.
+2024-11-04 13:00:28,152 - INFO - Month 2024-10: Calculated reduction needed: 99.87% to meet savings goal.
+2024-11-04 13:00:28,152 - INFO - Month 2024-11: Calculated reduction needed: 89.72% to meet savings goal.
+2024-11-04 13:00:28,152 - INFO - Month 2024-12: Calculated reduction needed: 84.74% to meet savings goal.
+2024-11-04 13:00:28,153 - INFO - 
+Goal Recommendation:
+2024-11-04 13:00:28,153 - INFO - 2024-09: A reduction of 73.09% in total expenses is needed to meet the savings goal.
+2024-11-04 13:00:28,153 - INFO - 
+Goal Recommendation:
+2024-11-04 13:00:28,153 - INFO - 2024-10: A reduction of 99.87% in total expenses is needed to meet the savings goal.
+2024-11-04 13:00:28,153 - INFO - 
+Goal Recommendation:
+2024-11-04 13:00:28,153 - INFO - 2024-11: A reduction of 89.72% in total expenses is needed to meet the savings goal.
+2024-11-04 13:00:28,153 - INFO - 
+Goal Recommendation:
+2024-11-04 13:00:28,153 - INFO - 2024-12: A reduction of 84.74% in total expenses is needed to meet the savings goal.
+2024-11-04 13:00:28,314 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:00:28,314 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:00:28,315 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:00:28,315 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:00:30,649 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:00:30,649 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:00:30,650 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:00:30,650 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:00:30,967 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 13:01:54,320 - INFO - Application started
+2024-11-04 13:01:54,323 - INFO - Transaction data loaded successfully.
+2024-11-04 13:01:54,326 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 13:01:54,329 - INFO - Monthly Summary of Expenses and Income:
+  Month  total_income  total_expenses  expense_to_income_ratio
+2024-09          3011            1858                 0.617071
+2024-10        586740          387314                 0.660112
+2024-11         27440            4866                 0.177332
+2024-12          9043            3277                 0.362380
+2024-11-04 13:01:54,331 - INFO - Generated savings recommendations.
+2024-11-04 13:01:54,331 - INFO - 
+Recommendations:
+2024-11-04 13:01:54,331 - INFO - In 2024-09, the 'Rent' expenses were 46.49% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:01:54,331 - INFO - In 2024-10, the 'Rent' expenses were 19.76% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:01:54,331 - INFO - In 2024-12, the 'Rent' expenses were 10.51% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:01:57,239 - INFO - Month 2024-09: Calculated reduction needed: 26.91% to meet savings goal.
+2024-11-04 13:01:57,239 - INFO - Month 2024-10: Calculated reduction needed: 0.13% to meet savings goal.
+2024-11-04 13:01:57,239 - INFO - Month 2024-11: Calculated reduction needed: 10.28% to meet savings goal.
+2024-11-04 13:01:57,239 - INFO - Month 2024-12: Calculated reduction needed: 15.26% to meet savings goal.
+2024-11-04 13:01:57,239 - INFO - 
+Goal Recommendation:
+2024-11-04 13:01:57,239 - INFO - 2024-09: A reduction of 26.91% in total expenses is needed to meet the savings goal.
+2024-11-04 13:01:57,239 - INFO - 
+Goal Recommendation:
+2024-11-04 13:01:57,239 - INFO - 2024-10: A reduction of 0.13% in total expenses is needed to meet the savings goal.
+2024-11-04 13:01:57,240 - INFO - 
+Goal Recommendation:
+2024-11-04 13:01:57,240 - INFO - 2024-11: A reduction of 10.28% in total expenses is needed to meet the savings goal.
+2024-11-04 13:01:57,240 - INFO - 
+Goal Recommendation:
+2024-11-04 13:01:57,240 - INFO - 2024-12: A reduction of 15.26% in total expenses is needed to meet the savings goal.
+2024-11-04 13:01:57,404 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:01:57,404 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:01:57,404 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:01:57,405 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:02:00,784 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:02:00,784 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:02:00,785 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:02:00,785 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:02:01,101 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 13:06:15,097 - INFO - Application started
+2024-11-04 13:06:15,100 - INFO - Transaction data loaded successfully.
+2024-11-04 13:06:15,103 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 13:06:15,106 - INFO - Monthly Summary of Expenses and Income:
+  Month  total_income  total_expenses  expense_to_income_ratio
+2024-09          3011            1858                 0.617071
+2024-10        586740          387314                 0.660112
+2024-11         27440            4866                 0.177332
+2024-12          9043            3277                 0.362380
+2024-11-04 13:06:15,108 - INFO - Generated savings recommendations.
+2024-11-04 13:06:15,108 - INFO - 
+Recommendations:
+2024-11-04 13:06:15,108 - INFO - In 2024-09, the 'Rent' expenses were 46.49% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:06:15,108 - INFO - In 2024-10, the 'Rent' expenses were 19.76% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:06:15,108 - INFO - In 2024-12, the 'Rent' expenses were 10.51% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:06:18,099 - ERROR - Error calculating monthly savings goal reduction: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2024-11-04 13:10:15,206 - INFO - Application started
+2024-11-04 13:10:15,209 - INFO - Transaction data loaded successfully.
+2024-11-04 13:10:15,212 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 13:10:15,215 - INFO - Monthly Summary of Expenses and Income:
+  Month  total_income  total_expenses  expense_to_income_ratio
+2024-09          3011            1858                 0.617071
+2024-10        586740          387314                 0.660112
+2024-11         27440            4866                 0.177332
+2024-12          9043            3277                 0.362380
+2024-11-04 13:10:15,217 - INFO - Generated savings recommendations.
+2024-11-04 13:10:15,217 - INFO - 
+Recommendations:
+2024-11-04 13:10:15,217 - INFO - In 2024-09, the 'Rent' expenses were 46.49% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:10:15,217 - INFO - In 2024-10, the 'Rent' expenses were 19.76% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:10:15,217 - INFO - In 2024-12, the 'Rent' expenses were 10.51% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:10:17,537 - INFO - Month 2024-09: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:10:17,538 - INFO - Month 2024-10: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:10:17,538 - INFO - Month 2024-11: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:10:17,538 - INFO - Month 2024-12: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:10:17,539 - INFO - 
+Goal Recommendation:
+2024-11-04 13:10:17,539 - INFO - 2024-09: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:10:17,539 - INFO - 
+Goal Recommendation:
+2024-11-04 13:10:17,539 - INFO - 2024-10: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:10:17,539 - INFO - 
+Goal Recommendation:
+2024-11-04 13:10:17,539 - INFO - 2024-11: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:10:17,539 - INFO - 
+Goal Recommendation:
+2024-11-04 13:10:17,539 - INFO - 2024-12: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:10:17,695 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:10:17,695 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:10:17,696 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:10:17,696 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:10:19,822 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:10:19,823 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:10:19,823 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:10:19,824 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:10:20,154 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 13:10:28,234 - INFO - Application started
+2024-11-04 13:10:28,237 - INFO - Transaction data loaded successfully.
+2024-11-04 13:10:28,240 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 13:10:28,243 - INFO - Monthly Summary of Expenses and Income:
+  Month  total_income  total_expenses  expense_to_income_ratio
+2024-09          3011            1858                 0.617071
+2024-10        586740          387314                 0.660112
+2024-11         27440            4866                 0.177332
+2024-12          9043            3277                 0.362380
+2024-11-04 13:10:28,245 - INFO - Generated savings recommendations.
+2024-11-04 13:10:28,245 - INFO - 
+Recommendations:
+2024-11-04 13:10:28,245 - INFO - In 2024-09, the 'Rent' expenses were 46.49% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:10:28,245 - INFO - In 2024-10, the 'Rent' expenses were 19.76% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:10:28,245 - INFO - In 2024-12, the 'Rent' expenses were 10.51% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:10:31,956 - INFO - Month 2024-09: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:10:31,957 - INFO - Month 2024-10: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:10:31,957 - INFO - Month 2024-11: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:10:31,957 - INFO - Month 2024-12: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:10:31,957 - INFO - 
+Goal Recommendation:
+2024-11-04 13:10:31,957 - INFO - 2024-09: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:10:31,957 - INFO - 
+Goal Recommendation:
+2024-11-04 13:10:31,957 - INFO - 2024-10: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:10:31,957 - INFO - 
+Goal Recommendation:
+2024-11-04 13:10:31,957 - INFO - 2024-11: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:10:31,957 - INFO - 
+Goal Recommendation:
+2024-11-04 13:10:31,958 - INFO - 2024-12: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:10:32,101 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:10:32,102 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:10:32,102 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:10:32,103 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:10:35,203 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:10:35,203 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:10:35,204 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:10:35,204 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:10:35,528 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 13:11:11,676 - INFO - Application started
+2024-11-04 13:11:11,680 - INFO - Transaction data loaded successfully.
+2024-11-04 13:11:11,683 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 13:11:11,686 - INFO - Monthly Summary of Expenses and Income:
+  Month  total_income  total_expenses  expense_to_income_ratio
+2024-09          3011            1858                 0.617071
+2024-10        586740          387314                 0.660112
+2024-11         27440            4866                 0.177332
+2024-12          9043            3277                 0.362380
+2024-11-04 13:11:11,687 - INFO - Generated savings recommendations.
+2024-11-04 13:11:11,687 - INFO - 
+Recommendations:
+2024-11-04 13:11:11,688 - INFO - In 2024-09, the 'Rent' expenses were 46.49% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:11:11,688 - INFO - In 2024-10, the 'Rent' expenses were 19.76% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:11:11,688 - INFO - In 2024-12, the 'Rent' expenses were 10.51% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:11:16,591 - INFO - Month 2024-09: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:11:16,592 - INFO - Month 2024-10: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:11:16,592 - INFO - Month 2024-11: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:11:16,592 - INFO - Month 2024-12: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:11:16,592 - INFO - 
+Goal Recommendation:
+2024-11-04 13:11:16,592 - INFO - 2024-09: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:11:16,592 - INFO - 
+Goal Recommendation:
+2024-11-04 13:11:16,592 - INFO - 2024-10: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:11:16,592 - INFO - 
+Goal Recommendation:
+2024-11-04 13:11:16,592 - INFO - 2024-11: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:11:16,592 - INFO - 
+Goal Recommendation:
+2024-11-04 13:11:16,592 - INFO - 2024-12: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:11:16,746 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:11:16,746 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:11:16,747 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:11:16,747 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:11:26,641 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:11:26,642 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:11:26,643 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:11:26,643 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:11:26,966 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 13:15:45,897 - INFO - Application started
+2024-11-04 13:15:45,901 - INFO - Transaction data loaded successfully.
+2024-11-04 13:15:45,903 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 13:15:45,906 - INFO - Monthly Summary of Expenses and Income:
+  Month  total_income  total_expenses  expense_to_income_ratio
+2024-09          3011            1858                 0.617071
+2024-10        586740          387314                 0.660112
+2024-11         27440            4866                 0.177332
+2024-12          9043            3277                 0.362380
+2024-11-04 13:15:45,908 - INFO - Generated savings recommendations.
+2024-11-04 13:15:45,908 - INFO - 
+Recommendations:
+2024-11-04 13:15:45,908 - INFO - In 2024-09, the 'Rent' expenses were 46.49% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:15:45,908 - INFO - In 2024-10, the 'Rent' expenses were 19.76% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:15:45,908 - INFO - In 2024-12, the 'Rent' expenses were 10.51% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:15:51,194 - INFO - Month 2024-09: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:15:51,195 - INFO - Month 2024-10: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:15:51,195 - INFO - Month 2024-11: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:15:51,195 - INFO - Month 2024-12: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:15:51,195 - INFO - 
+Goal Recommendation:
+2024-11-04 13:15:51,195 - INFO - 2024-09: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:15:51,195 - INFO - 
+Goal Recommendation:
+2024-11-04 13:15:51,195 - INFO - 2024-10: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:15:51,195 - INFO - 
+Goal Recommendation:
+2024-11-04 13:15:51,195 - INFO - 2024-11: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:15:51,195 - INFO - 
+Goal Recommendation:
+2024-11-04 13:15:51,195 - INFO - 2024-12: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:15:51,357 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:15:51,358 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:15:51,358 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:15:51,358 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:16:00,774 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:16:00,775 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:16:00,775 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:16:00,776 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:16:01,093 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 13:18:11,016 - INFO - Application started
+2024-11-04 13:18:11,020 - INFO - Transaction data loaded successfully.
+2024-11-04 13:18:11,023 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 13:18:11,026 - INFO - Monthly Summary of Expenses and Income:
+  Month  total_income  total_expenses  expense_to_income_ratio
+2024-09          3011            1858                 0.617071
+2024-10        586740          387314                 0.660112
+2024-11         27440            4866                 0.177332
+2024-12          9043            3277                 0.362380
+2024-11-04 13:18:11,028 - INFO - Generated savings recommendations.
+2024-11-04 13:18:11,028 - INFO - 
+Recommendations:
+2024-11-04 13:18:11,028 - INFO - In 2024-09, the 'Rent' expenses were 46.49% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:18:11,028 - INFO - In 2024-10, the 'Rent' expenses were 19.76% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:18:11,028 - INFO - In 2024-12, the 'Rent' expenses were 10.51% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:18:13,684 - INFO - Month 2024-09: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:18:13,684 - INFO - Month 2024-10: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:18:13,684 - INFO - Month 2024-11: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:18:13,684 - INFO - Month 2024-12: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:18:13,685 - INFO - 
+Goal Recommendation:
+2024-11-04 13:18:13,685 - INFO - 2024-09: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:18:13,685 - INFO - 
+Goal Recommendation:
+2024-11-04 13:18:13,685 - INFO - 2024-10: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:18:13,685 - INFO - 
+Goal Recommendation:
+2024-11-04 13:18:13,685 - INFO - 2024-11: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:18:13,685 - INFO - 
+Goal Recommendation:
+2024-11-04 13:18:13,685 - INFO - 2024-12: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:18:13,842 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:18:13,843 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:18:13,843 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:18:13,843 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:18:17,219 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:18:17,220 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:18:17,220 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:18:17,221 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:18:17,553 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 13:19:02,207 - INFO - Application started
+2024-11-04 13:19:02,210 - INFO - Transaction data loaded successfully.
+2024-11-04 13:19:02,213 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 13:19:02,216 - INFO - Monthly Summary of Expenses and Income:
+  Month  total_income  total_expenses  expense_to_income_ratio
+2024-09          3011            1858                 0.617071
+2024-10        586740          387314                 0.660112
+2024-11         27440            4866                 0.177332
+2024-12          9043            3277                 0.362380
+2024-11-04 13:19:02,218 - INFO - Generated savings recommendations.
+2024-11-04 13:19:02,218 - INFO - 
+Recommendations:
+2024-11-04 13:19:02,218 - INFO - In 2024-09, the 'Rent' expenses were 46.49% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:19:02,218 - INFO - In 2024-10, the 'Rent' expenses were 19.76% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:19:02,218 - INFO - In 2024-12, the 'Rent' expenses were 10.51% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:19:05,751 - INFO - Month 2024-09: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:19:05,751 - INFO - Month 2024-10: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:19:05,751 - INFO - Month 2024-11: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:19:05,752 - INFO - Month 2024-12: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:19:05,752 - INFO - 
+Goal Recommendation:
+2024-11-04 13:19:05,752 - INFO - 2024-09: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:19:05,752 - INFO - 
+Goal Recommendation:
+2024-11-04 13:19:05,752 - INFO - 2024-10: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:19:05,752 - INFO - 
+Goal Recommendation:
+2024-11-04 13:19:05,752 - INFO - 2024-11: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:19:05,752 - INFO - 
+Goal Recommendation:
+2024-11-04 13:19:05,752 - INFO - 2024-12: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:19:05,901 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:19:05,901 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:19:05,902 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:19:05,902 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:19:08,288 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:19:08,289 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:19:08,289 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:19:08,289 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:19:08,621 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 13:21:20,584 - INFO - Application started
+2024-11-04 13:21:20,588 - INFO - Transaction data loaded successfully.
+2024-11-04 13:21:20,591 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 13:21:20,594 - INFO - Monthly Summary of Expenses and Income:
+  Month  total_income  total_expenses  expense_to_income_ratio
+2024-09          3011            1858                 0.617071
+2024-10        586740          387314                 0.660112
+2024-11         27440            4866                 0.177332
+2024-12          9043            3277                 0.362380
+2024-11-04 13:21:20,596 - INFO - Generated savings recommendations.
+2024-11-04 13:21:20,596 - INFO - 
+Recommendations:
+2024-11-04 13:21:20,596 - INFO - In 2024-09, the 'Rent' expenses were 46.49% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:21:20,596 - INFO - In 2024-10, the 'Rent' expenses were 19.76% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:21:20,596 - INFO - In 2024-12, the 'Rent' expenses were 10.51% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:21:24,038 - INFO - Month 2024-09: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:21:24,039 - INFO - Month 2024-10: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:21:24,039 - INFO - Month 2024-11: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:21:24,039 - INFO - Month 2024-12: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:21:24,039 - INFO - 
+Goal Recommendation:
+2024-11-04 13:21:24,039 - INFO - 2024-09: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:21:24,039 - INFO - 
+Goal Recommendation:
+2024-11-04 13:21:24,040 - INFO - 2024-10: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:21:24,040 - INFO - 
+Goal Recommendation:
+2024-11-04 13:21:24,040 - INFO - 2024-11: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:21:24,040 - INFO - 
+Goal Recommendation:
+2024-11-04 13:21:24,040 - INFO - 2024-12: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:21:24,191 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:21:24,192 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:21:24,192 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:21:24,192 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:21:26,572 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:21:26,573 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:21:26,573 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:21:26,573 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:21:26,893 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 13:21:51,133 - INFO - Application started
+2024-11-04 13:21:51,136 - INFO - Transaction data loaded successfully.
+2024-11-04 13:21:51,140 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 13:21:51,143 - INFO - Monthly Summary of Expenses and Income:
+  Month  total_income  total_expenses  expense_to_income_ratio
+2024-09          3011            1858                 0.617071
+2024-10        586740          387314                 0.660112
+2024-11         27440            4866                 0.177332
+2024-12          9043            3277                 0.362380
+2024-11-04 13:21:51,145 - INFO - Generated savings recommendations.
+2024-11-04 13:21:51,145 - INFO - 
+Recommendations:
+2024-11-04 13:21:51,145 - INFO - In 2024-09, the 'Rent' expenses were 46.49% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:21:51,145 - INFO - In 2024-10, the 'Rent' expenses were 19.76% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:21:51,145 - INFO - In 2024-12, the 'Rent' expenses were 10.51% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:21:54,717 - INFO - Month 2024-09: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:21:54,717 - INFO - Month 2024-10: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:21:54,717 - INFO - Month 2024-11: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:21:54,717 - INFO - Month 2024-12: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:21:54,717 - INFO - 
+Goal Recommendation:
+2024-11-04 13:21:54,718 - INFO - 2024-09: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:21:54,718 - INFO - 
+Goal Recommendation:
+2024-11-04 13:21:54,718 - INFO - 2024-10: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:21:54,718 - INFO - 
+Goal Recommendation:
+2024-11-04 13:21:54,718 - INFO - 2024-11: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:21:54,718 - INFO - 
+Goal Recommendation:
+2024-11-04 13:21:54,718 - INFO - 2024-12: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:21:54,878 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:21:54,879 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:21:54,879 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:21:54,879 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:21:58,685 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:21:58,685 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:21:58,686 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:21:58,686 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:21:59,008 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 13:22:40,824 - INFO - Application started
+2024-11-04 13:22:40,827 - INFO - Transaction data loaded successfully.
+2024-11-04 13:22:40,830 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 13:22:40,833 - INFO - Monthly Summary of Expenses and Income:
+  Month  total_income  total_expenses  expense_to_income_ratio
+2024-09          3011            1858                 0.617071
+2024-10        586740          387314                 0.660112
+2024-11         27440            4866                 0.177332
+2024-12          9043            3277                 0.362380
+2024-11-04 13:22:40,835 - INFO - Generated savings recommendations.
+2024-11-04 13:22:40,835 - INFO - 
+Recommendations:
+2024-11-04 13:22:40,835 - INFO - In 2024-09, the 'Rent' expenses were 46.49% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:22:40,835 - INFO - In 2024-10, the 'Rent' expenses were 19.76% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:22:40,835 - INFO - In 2024-12, the 'Rent' expenses were 10.51% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:22:44,953 - INFO - Month 2024-09: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:22:44,953 - INFO - Month 2024-10: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:22:44,953 - INFO - Month 2024-11: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:22:44,954 - INFO - Month 2024-12: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:22:44,954 - INFO - 
+Goal Recommendation:
+2024-11-04 13:22:44,954 - INFO - 2024-09: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:22:44,954 - INFO - 
+Goal Recommendation:
+2024-11-04 13:22:44,954 - INFO - 2024-10: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:22:44,954 - INFO - 
+Goal Recommendation:
+2024-11-04 13:22:44,954 - INFO - 2024-11: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:22:44,954 - INFO - 
+Goal Recommendation:
+2024-11-04 13:22:44,954 - INFO - 2024-12: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:22:45,108 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:22:45,108 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:22:45,109 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:22:45,109 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:22:47,891 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:22:47,892 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:22:47,893 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:22:47,893 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:22:48,222 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 13:23:14,450 - INFO - Application started
+2024-11-04 13:23:14,453 - INFO - Transaction data loaded successfully.
+2024-11-04 13:23:14,456 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 13:23:14,459 - INFO - Monthly Summary of Expenses and Income:
+  Month  total_income  total_expenses  expense_to_income_ratio
+2024-09          3011            1858                 0.617071
+2024-10        586740          387314                 0.660112
+2024-11         27440            4866                 0.177332
+2024-12          9043            3277                 0.362380
+2024-11-04 13:23:14,461 - INFO - Generated savings recommendations.
+2024-11-04 13:23:14,461 - INFO - 
+Recommendations:
+2024-11-04 13:23:14,461 - INFO - In 2024-09, the 'Rent' expenses were 46.49% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:23:14,461 - INFO - In 2024-10, the 'Rent' expenses were 19.76% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:23:14,461 - INFO - In 2024-12, the 'Rent' expenses were 10.51% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:23:17,712 - INFO - Month 2024-09: Calculated reduction needed: 2629.01% to meet savings goal.
+2024-11-04 13:23:17,712 - INFO - Month 2024-10: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:23:17,713 - INFO - Month 2024-11: Calculated reduction needed: 563.63% to meet savings goal.
+2024-11-04 13:23:17,713 - INFO - Month 2024-12: Calculated reduction needed: 1349.83% to meet savings goal.
+2024-11-04 13:23:17,713 - INFO - 
+Goal Recommendation:
+2024-11-04 13:23:17,713 - INFO - 2024-09: A reduction of 2629.01% in total expenses is needed to meet the savings goal.
+2024-11-04 13:23:17,713 - INFO - 
+Goal Recommendation:
+2024-11-04 13:23:17,713 - INFO - 2024-10: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:23:17,713 - INFO - 
+Goal Recommendation:
+2024-11-04 13:23:17,713 - INFO - 2024-11: A reduction of 563.63% in total expenses is needed to meet the savings goal.
+2024-11-04 13:23:17,713 - INFO - 
+Goal Recommendation:
+2024-11-04 13:23:17,713 - INFO - 2024-12: A reduction of 1349.83% in total expenses is needed to meet the savings goal.
+2024-11-04 13:23:17,866 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:23:17,867 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:23:17,867 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:23:17,868 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:23:20,023 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:23:20,024 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:23:20,024 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:23:20,024 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:23:20,344 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 13:23:47,414 - INFO - Application started
+2024-11-04 13:23:47,417 - INFO - Transaction data loaded successfully.
+2024-11-04 13:23:47,420 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 13:23:47,423 - INFO - Monthly Summary of Expenses and Income:
+  Month  total_income  total_expenses  expense_to_income_ratio
+2024-09          3011            1858                 0.617071
+2024-10        586740          387314                 0.660112
+2024-11         27440            4866                 0.177332
+2024-12          9043            3277                 0.362380
+2024-11-04 13:23:47,425 - INFO - Generated savings recommendations.
+2024-11-04 13:23:47,425 - INFO - 
+Recommendations:
+2024-11-04 13:23:47,425 - INFO - In 2024-09, the 'Rent' expenses were 46.49% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:23:47,425 - INFO - In 2024-10, the 'Rent' expenses were 19.76% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:23:47,425 - INFO - In 2024-12, the 'Rent' expenses were 10.51% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:23:51,985 - INFO - Month 2024-09: Calculated reduction needed: 45.59% to meet savings goal.
+2024-11-04 13:23:51,986 - INFO - Month 2024-10: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:23:51,986 - INFO - Month 2024-11: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:23:51,986 - INFO - Month 2024-12: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:23:51,986 - INFO - 
+Goal Recommendation:
+2024-11-04 13:23:51,986 - INFO - 2024-09: A reduction of 45.59% in total expenses is needed to meet the savings goal.
+2024-11-04 13:23:51,986 - INFO - 
+Goal Recommendation:
+2024-11-04 13:23:51,986 - INFO - 2024-10: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:23:51,986 - INFO - 
+Goal Recommendation:
+2024-11-04 13:23:51,986 - INFO - 2024-11: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:23:51,986 - INFO - 
+Goal Recommendation:
+2024-11-04 13:23:51,986 - INFO - 2024-12: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:23:52,143 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:23:52,143 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:23:52,143 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:23:52,144 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:23:54,458 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:23:54,459 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:23:54,459 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:23:54,459 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:23:54,774 - INFO - PDF report generated: financial_report.pdf
+2024-11-04 13:28:30,729 - INFO - Application started
+2024-11-04 13:28:30,732 - INFO - Transaction data loaded successfully.
+2024-11-04 13:28:30,735 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 13:28:30,738 - INFO - Monthly Summary of Expenses and Income:
+  Month  total_income  total_expenses  expense_to_income_ratio
+2024-09          3011            1858                 0.617071
+2024-10        586740          387314                 0.660112
+2024-11         27440            4866                 0.177332
+2024-12          9043            3277                 0.362380
+2024-11-04 13:28:30,740 - INFO - Generated savings recommendations.
+2024-11-04 13:28:30,740 - INFO - 
+Recommendations:
+2024-11-04 13:28:30,740 - INFO - In 2024-09, the 'Rent' expenses were 46.49% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:28:30,740 - INFO - In 2024-10, the 'Rent' expenses were 19.76% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:28:30,740 - INFO - In 2024-12, the 'Rent' expenses were 10.51% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:28:34,164 - INFO - Month 2024-09: Calculated reduction needed: 45.59% to meet savings goal.
+2024-11-04 13:28:34,164 - INFO - Month 2024-10: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:28:34,164 - INFO - Month 2024-11: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:28:34,164 - INFO - Month 2024-12: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:28:34,165 - INFO - 
+Goal Recommendation:
+2024-11-04 13:28:34,165 - INFO - 2024-09: A reduction of 45.59% in total expenses is needed to meet the savings goal.
+2024-11-04 13:28:34,165 - INFO - 
+Goal Recommendation:
+2024-11-04 13:28:34,165 - INFO - 2024-10: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:28:34,165 - INFO - 
+Goal Recommendation:
+2024-11-04 13:28:34,165 - INFO - 2024-11: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:28:34,165 - INFO - 
+Goal Recommendation:
+2024-11-04 13:28:34,165 - INFO - 2024-12: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:28:34,318 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:28:34,319 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:28:34,319 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:28:34,319 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:30:03,281 - INFO - Application started
+2024-11-04 13:30:03,284 - INFO - Transaction data loaded successfully.
+2024-11-04 13:30:03,287 - INFO - Expenses sorted by category and month:
+  Month      Category  Amount
+2024-09          Rent   -1701
+2024-09     Groceries    -157
+2024-09        Salary    3011
+2024-10          Rent -174624
+2024-10     Groceries  -40593
+2024-10     Transport  -39793
+2024-10    Healthcare  -34480
+2024-10     Utilities  -33235
+2024-10 Entertainment  -32309
+2024-10        Dining  -32280
+2024-10        Salary  586740
+2024-11          Rent   -1298
+2024-11     Utilities   -1137
+2024-11        Dining    -916
+2024-11     Groceries    -668
+2024-11    Healthcare    -544
+2024-11     Transport    -303
+2024-11        Salary   27440
+2024-12          Rent   -1855
+2024-12     Groceries    -466
+2024-12     Transport    -407
+2024-12    Healthcare    -359
+2024-12 Entertainment    -190
+2024-12        Salary    9043
+2024-11-04 13:30:03,290 - INFO - Monthly Summary of Expenses and Income:
+  Month  total_income  total_expenses  expense_to_income_ratio
+2024-09          3011            1858                 0.617071
+2024-10        586740          387314                 0.660112
+2024-11         27440            4866                 0.177332
+2024-12          9043            3277                 0.362380
+2024-11-04 13:30:03,292 - INFO - Generated savings recommendations.
+2024-11-04 13:30:03,292 - INFO - 
+Recommendations:
+2024-11-04 13:30:03,292 - INFO - In 2024-09, the 'Rent' expenses were 46.49% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:30:03,292 - INFO - In 2024-10, the 'Rent' expenses were 19.76% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:30:03,292 - INFO - In 2024-12, the 'Rent' expenses were 10.51% over the 10.0% threshold of monthly income. It is recommended to reduce 'Rent' expenses by 15.0% to better meet savings goals.
+2024-11-04 13:30:05,896 - INFO - Month 2024-09: Calculated reduction needed: 45.59% to meet savings goal.
+2024-11-04 13:30:05,896 - INFO - Month 2024-10: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:30:05,896 - INFO - Month 2024-11: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:30:05,896 - INFO - Month 2024-12: No reduction needed; total expenses are within the savings goal.
+2024-11-04 13:30:05,896 - INFO - 
+Goal Recommendation:
+2024-11-04 13:30:05,896 - INFO - 2024-09: A reduction of 45.59% in total expenses is needed to meet the savings goal.
+2024-11-04 13:30:05,896 - INFO - 
+Goal Recommendation:
+2024-11-04 13:30:05,896 - INFO - 2024-10: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:30:05,896 - INFO - 
+Goal Recommendation:
+2024-11-04 13:30:05,896 - INFO - 2024-11: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:30:05,896 - INFO - 
+Goal Recommendation:
+2024-11-04 13:30:05,896 - INFO - 2024-12: No reduction needed; expenses are already within the savings goal.
+2024-11-04 13:30:06,036 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:30:06,036 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:30:06,037 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:30:06,037 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:30:08,318 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:30:08,319 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:30:08,319 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:30:08,320 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-04 13:30:08,652 - INFO - PDF report generated: financial_report.pdf
